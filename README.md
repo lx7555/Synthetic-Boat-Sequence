@@ -1,7 +1,8 @@
 # Synthetic-Boat-Sequence
-Automatically generate multi-challenge synthetic video sequences for change detection, named “Synthetic Boat Sequence (SBS)”
 
-Abstract
+
+##Abstract
+
 Change detection is an important vision task for water-landing of unmanned aerial vehicles. Inspired by the high-density 
 photoreceptors and bilateral filter mechanism, a novel biologically computational method based on the eagle-eye visual
 sensitivity and lateral inhibition is proposed for change detection. This method named STabCD, which ensures spatio-temporal
