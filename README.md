@@ -27,11 +27,11 @@ We provide one [.rar] archive per type of data as described below. Our indexes a
 
 Synthetic-Boat-Sequence_rgb_2021: Each area is simply a folder in the format: The compressed file contains the original image.
 
-[Synthetic-Boat-Sequence_rgb_2021](https://drive.google.com/open?id=1hq6w_LhvMblyYdLFFskLtR77wm4NDFFm)
+[Synthetic-Boat-Sequence_rgb_2021.rar](https://drive.google.com/open?id=1hq6w_LhvMblyYdLFFskLtR77wm4NDFFm)
 
 Synthetic-Boat-Sequence_gt_2021: The compressed file contains the ground truth of object detection. The per-pixel segmentation ground truth is encoded as per-frame .png files (standard 8-bit precision per channel).
 
-[Synthetic-Boat-Sequence_gt_2021](https://drive.google.com/open?id=1QHkds8ZMAB_YdJZ8WaOb-mFQnHDa55Un)
+[Synthetic-Boat-Sequence_gt_2021.rar](https://drive.google.com/file/d/1zTqDW3MUaJxUYvviPSFHLojR5FyFTYjT/view?usp=sharing)
 
 ## Sample images of synthetic dataset
 ![image](https://github.com/lx7555/Synthetic-Boat-Sequence/blob/main/image/figure2.jpg)
