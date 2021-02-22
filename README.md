@@ -13,15 +13,6 @@ research. Besides, we utilize synthetic dataset and corresponding real dataset t
 experimental results indicate that: 1) the STabCD model achieves the best result in complex real or synthetic water-scene; 2) change
 detection models of UAVs can be quantitatively analyzed and tested under synthetic scenario challenges.
 
-
-Considering that
-change detection models have to deal with some challenges
-of water-landing scenes, we generate various synthetic video
-sequences, including Basic, Video Noise, Dynamic Background, Night, Shadows, and More Moving Objects. Note:
-Each specific sequence is also affected by other challenges, but
-one challenge is dominant.
-
-
 ## Description
 Considering that change detection models have to deal with some challenges of water-landing scenes, we generate various synthetic video
 sequences, including Basic, Video Noise, Dynamic Background, Night, Shadows, and More Moving Objects. Note:
@@ -35,6 +26,7 @@ Synthetic-Boat-Sequence is a water-scene dataset designed to design and evaluate
 We provide one [.rar] archive per type of data as described below. Our indexes always start from 00001. In the following,
 
 Synthetic-Boat-Sequence_rgb_2021: Each area is simply a folder in the format: The compressed file contains the original image.
+
 Synthetic-Boat-Sequence_gt_2021: The compressed file contains the ground truth of object detection. The per-pixel segmentation ground truth is encoded as per-frame .png files (standard 8-bit precision per channel).
 
 ## Sample images of synthetic dataset
