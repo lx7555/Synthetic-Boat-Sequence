@@ -25,9 +25,9 @@ Each specific sequence is also affected by other challenges, but one challenge i
 Synthetic-Boat-Sequence is a water-scene dataset designed to design and evaluate a variety of computer vision models for change detection.
 We provide one [.rar] archive per type of data as described below. Our indexes always start from 00001. In the following,
 
-Synthetic-Boat-Sequence_rgb_2021: Each area is simply a folder in the format: The compressed file contains the original image.[DUT-OMRON](https://drive.google.com/open?id=1hq6w_LhvMblyYdLFFskLtR77wm4NDFFm)
+Synthetic-Boat-Sequence_rgb_2021: Each area is simply a folder in the format: The compressed file contains the original image.[Synthetic-Boat-Sequence_rgb_2021](https://drive.google.com/open?id=1hq6w_LhvMblyYdLFFskLtR77wm4NDFFm)
 
-Synthetic-Boat-Sequence_gt_2021: The compressed file contains the ground truth of object detection. The per-pixel segmentation ground truth is encoded as per-frame .png files (standard 8-bit precision per channel).[ECSSD](https://drive.google.com/open?id=1QHkds8ZMAB_YdJZ8WaOb-mFQnHDa55Un)
+Synthetic-Boat-Sequence_gt_2021: The compressed file contains the ground truth of object detection. The per-pixel segmentation ground truth is encoded as per-frame .png files (standard 8-bit precision per channel).[Synthetic-Boat-Sequence_gt_2021](https://drive.google.com/open?id=1QHkds8ZMAB_YdJZ8WaOb-mFQnHDa55Un)
 
 ## Sample images of synthetic dataset
 ![image](https://github.com/lx7555/Synthetic-Boat-Sequence/blob/main/image/figure2.jpg)
