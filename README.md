@@ -1,7 +1,7 @@
 # Synthetic-Boat-Sequence
 
 
-##Abstract
+## Abstract
 
 Change detection is an important vision task for water-landing of unmanned aerial vehicles. Inspired by the high-density 
 photoreceptors and bilateral filter mechanism, a novel biologically computational method based on the eagle-eye visual
