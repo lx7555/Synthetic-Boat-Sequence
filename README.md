@@ -14,5 +14,5 @@ experimental results indicate that: 1) the STabCD model achieves the best result
 detection models of UAVs can be quantitatively analyzed and tested under synthetic scenario challenges.
 
 ## Examples of the real and synthetic dataset
-
+![image](https://github.com/lx7555/Synthetic-Boat-Sequence/blob/main/image/figure1.jpg)
 
