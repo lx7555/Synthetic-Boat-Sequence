@@ -1,4 +1,4 @@
-# Synthetic-Boat-Sequence
+# Exploring Urban Water Scene Generation for Change Detection Analysis
 
 
 ## Abstract
