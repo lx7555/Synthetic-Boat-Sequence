@@ -12,8 +12,8 @@ method based on structure and properties in eagle eyes as proposed for change de
 We call this method “STabCD,” which ensures spatiotemporal distribution consistency to achieve 
 foreground acquisition, noise reduction, and background adaptability. Therefore, our proposed model 
 responds strongly to object information and suppresses noise and wave textures. Then, we present a
-cloning method to simulate water scenes and collect a new synthetic dataset (called“Synthetic Boat Sequence”) 
-for UAV vision research. Besides, we utilize syntheticdatasets and corresponding real datasets to conduct 
+cloning method to simulate water scenes and collect a new synthetic dataset (called “Synthetic Boat Sequence”) 
+for UAV vision research. Besides, we utilize synthetic datasets and corresponding real datasets to conduct 
 change detection experiments. The experimental results indicate that: 1) the STabCD model achieves the 
 best results inreal or synthetic water landing scenes; and 2) change detection models for UAVs can
 be quantitatively analyzed and tested under challenging synthetic scenarios.
